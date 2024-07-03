@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Krishnadev</h1>
-<h3 align="center">A passionate Mern Stack developer </h3>
+<h3 align="center">A passionate Full Stack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnadev-ss&label=Profile%20views&color=0e75b6&style=flat" alt="krishnadev-ss" /> </p>
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/krishnadevss2" target="blank"><img src="https://img.shields.io/twitter/follow/krishnadevss2?logo=twitter&style=for-the-badge" alt="krishnadevss2" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next.js, DevOps**
+- 🌱 I’m currently learning **Flutter, DevOps**
 - 🌐 My Portfolio <a href="https://krishnadev.vercel.app/" target="blank"><img align="center" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="krishnadevss" height="30" width="40" /></a>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/krishnadev-ss" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="krishnadevss" height="30" width="40" /></a>
 - 💬 Ask me about **MERN, Machine Learning**
